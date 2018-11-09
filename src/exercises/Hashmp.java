@@ -14,7 +14,7 @@ public class Hashmp {
 
         System.out.println("Enter student id or ENTER to finish");
 
-        do {
+        do { //sets vars for while loop
             System.out.print("Student Name: ");
             newStudent = in.nextLine();
 
